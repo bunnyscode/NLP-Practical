@@ -1,0 +1,5 @@
+This is a sample corpus for word prediction using N-gram models. N-gram models are commonly used in natural language processing.
+They can predict the next word based on the previous words in the sequence.
+In this example, we'll use bigram and trigram models to demonstrate word prediction.
+Word prediction can be useful in various applications such as text generation and autocomplete.
+N-gram models require a good amount of training data to make accurate predictions.
